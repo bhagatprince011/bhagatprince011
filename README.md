@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prince Kumar
+- 👋 Hi, I’m Prince Kumar,
  3rd year B.tech student (computer science).
  
 - 🌱Till yet , i've done project in c, c++, python languages and in SQL . Have 5 star (gold) rating on Hackerrank on problem solving.
