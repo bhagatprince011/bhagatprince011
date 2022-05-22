@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prince Kumar,
  3rd year B.tech student (computer science).
  
-- 🌱Till yet , i've done project in c, c++, python languages and in SQL . Have 5 star (gold) rating on Hackerrank on problem solving.
+- 🌱I have 5⭐ C++(HackerRank), 3⭐ SQL(HackerRank).
 Python badge by @LinkedIn
 - 💞️ I’m looking forward to learn and build more Projects.
 - 📫 How to reach me ... MAIL: bhagatprince011@gmail.com
