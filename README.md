@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prince Kumar,
- 3rd year B.tech student (computer science).
+ final year B.tech student (computer science).
  
 - 🌱I have 5⭐ C++(HackerRank), 3⭐ SQL(HackerRank).
 Python badge by @LinkedIn
